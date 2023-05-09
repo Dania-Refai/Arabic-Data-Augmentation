@@ -20,7 +20,7 @@
     .\venv\Scripts\pip3 install -r requirements.txt
 
 
-> ************************** LINUX **************************
+> #### LINUX 
     python3 -m pip install --upgrade pip
     python3 -m pip install virtualenv
     python3 -m venv myenv 
