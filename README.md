@@ -21,14 +21,13 @@
 
 
 > ************************** LINUX **************************
-
-python3 -m pip install --upgrade pip
-python3 -m pip install virtualenv
-python3 -m venv myenv 
-source  ./venv/bin/activate
-python3 -m pip install psycopg-binary
-python3 -m pip install python-dotenv
-python3 -m pip install -r requirements.txt
+    python3 -m pip install --upgrade pip
+    python3 -m pip install virtualenv
+    python3 -m venv myenv 
+    source  ./venv/bin/activate
+    python3 -m pip install psycopg-binary
+    python3 -m pip install python-dotenv
+    python3 -m pip install -r requirements.txt
 
 please, if you use any of the resources listed in this repo. to use the following citation for the published paper:
 {{CITATION}}
