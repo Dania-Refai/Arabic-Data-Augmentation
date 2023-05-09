@@ -29,6 +29,14 @@
     python3 -m pip install python-dotenv
     python3 -m pip install -r requirements.txt
 
+> #### Paper Implementation:
+The implementation of the approach is all located in the jupyter notebooks:
+* '_TG': for original dataset generation using transformers.
+* '_DA': for data augmentation of each dataset.
+* '_SA': for sentiment analysis of each dataset.
+* '_PR_ROC': for investigating the PR/ROC of each dataset.
+
+> ### Citation:
 please, if you use any of the resources listed in this repo. to use the following citation for the published paper:
 {{CITATION}}
 
