@@ -1,6 +1,6 @@
 # Arabic-Data-Augmentation
 > #### Author: Dania S. Refai
-> #### Date: 21/01/2022
+> #### Date: 10/05/2023
 
 
 > #### Make sure you have pytorch installed on your machine. Moreover, if you want more information please refer to INSTALL PYTORCH [https://pytorch.org/] from their official website.
