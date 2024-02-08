@@ -38,7 +38,7 @@ The implementation of the approach is all located in the jupyter notebooks:
 
 > ### Citation:
 please, if you use any of the resources listed in this repo. to use the following citation for the published paper:
-{{CITATION}}
+{{[DOI: 10.1109/ACCESS.2023.3336311](https://doi.org/10.1109/ACCESS.2023.3336311)}}
 
 
 
